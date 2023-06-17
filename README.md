@@ -9,9 +9,13 @@ Here's a sample format for the CSV file:
 
 
 stock,date,headline
+
 AAPL,2022-10-01,Apple announces new iPhone with groundbreaking features
+
 AAPL,2022-10-02,Apple faces production delays due to supply chain issues
+
 GOOGL,2022-10-01,Google unveils next-generation Pixel smartphone
+
 GOOGL,2022-10-03,Google acquires AI startup for $500 million
 
 
