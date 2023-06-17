@@ -7,13 +7,11 @@ with your actual API key for the OpenAI API.
 The CSV file should contain three columns: stock, date, and headline. 
 Here's a sample format for the CSV file:
 
-"""
 stock,date,headline<br>
 AAPL,2022-10-01,Apple announces new iPhone with groundbreaking features<br>
 AAPL,2022-10-02,Apple faces production delays due to supply chain issues<br>
 GOOGL,2022-10-01,Google unveils next-generation Pixel smartphone<br>
 GOOGL,2022-10-03,Google acquires AI startup for $500 million<br>
-"""
 
 Each row in the CSV file represents a stock headline, with the stock symbol (e.g., "AAPL" for Apple Inc.), 
 the date of the headline (in the format YYYY-MM-DD), and the text of the headline itself.
