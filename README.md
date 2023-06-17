@@ -18,8 +18,8 @@ the date of the headline (in the format YYYY-MM-DD), and the text of the headlin
 Make sure that the header in the CSV file matches the column names used in the analyze_headlines function in the Python script:
 
 
-for index, row in headlines_data.iterrows():
-    headline = row["headline"]
-    stock = row["stock"]
-    date = row["date"]
+for index, row in headlines_data.iterrows():<br>
+    headline = row["headline"]<br>
+    stock = row["stock"]<br>
+    date = row["date"]<br>
 
