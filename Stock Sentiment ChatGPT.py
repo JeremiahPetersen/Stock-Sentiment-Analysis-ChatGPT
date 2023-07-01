@@ -2,7 +2,7 @@ import openai
 import pandas as pd
 from datetime import datetime, timedelta
 
-# Load your API key from an environment variable or secret management service
+# Load your API key
 openai.api_key = "your_api_key_here"
 
 # Load stock headlines data
